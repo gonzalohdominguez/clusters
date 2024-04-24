@@ -10,6 +10,3 @@ Finally, an average of the distances between all genes in the genome is calculat
 This method starts with an exhaustive search of all genes and their respective locations in the corresponding .gff file. 
 For each chromosome/scaffold, the number of genes located 500,000 bp downstream and 500,000 bp upstream of each gene is determined. 
 Subsequently, the average number of genes present every 1,000,000 bp in the species is calculated. Lastly, the average distance, in base pairs, between each gene is determined.
-
----- 
-Feel free to adjust and expand upon this template as needed!
